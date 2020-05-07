@@ -1,3 +1,3 @@
-console.error("HALP!")
-console.log("elias!")
+console.error("HALP!");
+console.log("elias!");
 console.warn("ELIAS!"):
